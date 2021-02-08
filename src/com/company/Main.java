@@ -26,6 +26,8 @@ public class Main {
             case 4:
                 LoopWhileDo(arr);
                 break;
+            default:
+                System.out.println("Enter correct choice from 1 to 4");
         }
     }
 
